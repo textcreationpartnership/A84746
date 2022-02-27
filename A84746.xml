@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foure petitions of Huntington Shire, Norfolk, Suffolk, and Essex. Ioyntly concerning the libertie of the subiects, to the honourable Assembly of the High Court of Parliament. Vnanimously concurring to the rootiug [sic] out of papists, and their religion from our kingdome; and the removing of the popish lords, and bishops from their votes in the House of Peeres: and that there may be a speedy reformation of religion in our church, according to the word of God. The petition of Huntington-shire, particularly containing the behalfe of the Lord Kimbolton.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84746</idno>
+            <idno type="STC">Wing F1664</idno>
+            <idno type="STC">Thomason E132_20</idno>
+            <idno type="STC">ESTC R212758</idno>
+            <idno type="EEBO-CITATION">99871333</idno>
+            <idno type="PROQUEST">99871333</idno>
+            <idno type="VID">156365</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156365)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foure petitions of Huntington Shire, Norfolk, Suffolk, and Essex. Ioyntly concerning the libertie of the subiects, to the honourable Assembly of the High Court of Parliament. Vnanimously concurring to the rootiug [sic] out of papists, and their religion from our kingdome; and the removing of the popish lords, and bishops from their votes in the House of Peeres: and that there may be a speedy reformation of religion in our church, according to the word of God. The petition of Huntington-shire, particularly containing the behalfe of the Lord Kimbolton.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156365:1" rendition="simple:additions"/>
+            <p> THE FOVRE PETITIONS <hi>OF</hi> HVNTINGTON SHIRE, NORFOLK SVFFOLK, AND ESSEX.</p>
+            <p>Ioyntly concerning the libertie of the Subiects, to the Ho<g ref="char:EOLhyphen"/>nourable Aſſembly of the High Court of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>Vnanimouſly concurring to the rooting out of Papiſts, and their Religion from our Kingdome; and the re<g ref="char:EOLhyphen"/>moving of the Popiſh Lords, and Biſhops from their Votes in the Houſe of Peeres: and that there may be a ſpeedy Reformation of Re<g ref="char:EOLhyphen"/>ligion in our Church, according to the Word of God.</p>
+            <p>
+               <hi>The Petition of</hi> Huntington-ſhire, <hi>particularly con<g ref="char:EOLhyphen"/>taining the behalfe of the Lord</hi> Kimbolton.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn H<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mond.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156365:2"/>
+            <pb facs="tcp:156365:2"/>
+            <head>To the right Honourable <hi>THE</hi> KNIGHTS, CITIZENS, AND BVRGESSES of the Houſe of Com<g ref="char:EOLhyphen"/>mon now aſſembled in Parliament.<hi>The Petition of the Countie of</hi> Huntington.</head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat Your unwearied labours, and indefeſſive endevours for the publike good, and ſafety of the whole Kingdome, have exſtimulated us not onely to acknowledge, obſequiouſly the ſame, but alſo have reſpectively induced us to pre<g ref="char:EOLhyphen"/>ſent, our lives and eſtates at your command, and Order. The grievances, which for a long-time hi<g ref="char:EOLhyphen"/>therto have ſorely oppreſſed us, have partly beene cleared by our endevours, and partly remaine ſtill to the great molleſtation of us all; which we real<g ref="char:EOLhyphen"/>ly ſuppoſe to bee retarded by a malignant patty, which are acknowledged to be the ſole obſtacles of your proceedings. Our humble addreſſe is there<g ref="char:EOLhyphen"/>fore to Your Honours, that You would bee grati<g ref="char:EOLhyphen"/>ouſly pleaſed to devote the Popiſh Lords, Bi<g ref="char:EOLhyphen"/>ſhops, and others from the Houſe of Peeres, and
+<pb facs="tcp:156365:3"/> exenterate thoſe evill Councellours from that Il<g ref="char:EOLhyphen"/>luſtrous Aſſembly. For wee finde that by their miſchievous deſignes your endevours are not one<g ref="char:EOLhyphen"/>ly fruſtrated, but the very priviledges of the Par<g ref="char:EOLhyphen"/>liament broken, and the liberty of the Subiects debilitated, and the Members of both Houſes unaſſured of their lives, to the great preiudice of the whole Kingdom, eſpecially a Religious mem<g ref="char:EOLhyphen"/>ber of the Houſe of Peeres, the Lord of <hi>Kim<g ref="char:EOLhyphen"/>bolton</hi> in our Shire, who was impeached by his Maieſtie of High Treaſon; but wee are confident of his Loyaltie, and have ſo abſolute an opinion of him, that he is not guiltie of the leaſt of theſe Articles wherein hee was arraigned. Wherefore we humbly implore your Honours, that hee, and the orher may enioy the freedome, and liberty of the Parliament, according to the legall progreſſe of Law, and the ancient cuſtomes and Rights of Parliamentarie tryalls. To the granting of which Petitiory deſire we recommend our Service and Zeale unto your Honours, humbly beſeecning you to reflect upon our Petition.</p>
+            <closer>To your Petitioners will be bound to pray. &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156365:3"/>
+            <head>THE PETITION OF THE COVNTIE OF <hi>NORFOLKE</hi> To the Honourable Houſe of Commons, &amp;c.</head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat the manifold preſſures, and multiplicity of grievances which have diſturbed our Coun<g ref="char:EOLhyphen"/>tie have been intollerable, and almoſt inſupport<g ref="char:EOLhyphen"/>able: and whereas wee have preſented our many Petitions to your Honour, we have been fruſtra<g ref="char:EOLhyphen"/>ted, and have had little or no redreſſe from you, the cauſe whereof we neither iudge nor imagine to be retarded by you, but wee abſolutely believe that it appertaines rather to the Popiſh Lords, and Biſhops in the Houſe of Peeres, who hinder and nullifie many things, which are endevoured by your Diurnall vigilancy. To the avoyding of which future hindrance, and obſtacle in your pi<g ref="char:EOLhyphen"/>ous determinations, we doe now make the humble tender of our ſervice and devotion unto you, beſee<g ref="char:EOLhyphen"/>ching with all humilitie and ardency of affection, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the univerſall good of this Common-wealth, that thoſe afore-mentioned Lords and Biſhops may be devoted from the upper Houſe, that the cleare ſpring of your ſacred and unanimous reſolu<g ref="char:EOLhyphen"/>lutions may runne like a pure fountain of Iuſtice, without either the hindrance or let of any, as alſo without the corruption of any malignant, or ill<g ref="char:EOLhyphen"/>affected member, to the proſperous alacrity of this whole Nation.</p>
+            <closer>And then your Petitioners ſhall be for ever bound to pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156365:4"/>
+            <head>THE HVMBLE PETITION OF the Countie of <hi>Suffolke, To the Right honorable Court of Parliament</hi>
+            </head>
+            <p>
+               <hi>Humbly ſheweth,</hi>
+            </p>
+            <p>THat wheres, infinite preſſures and grievous im<g ref="char:EOLhyphen"/>poſitions have for theſe many years been urged upon us, to the great griefe and diſturbance of the Kingdome: the redreſſe where of wee impartially confeſſe, hath been with exceſſive labour endea<g ref="char:EOLhyphen"/>voured by you in the ſpace of the fourteen moneths paſt, to bring all thing to a regular reformation: yet notwithſtanding your endeavours have been contrariwiſe fruſtrated, and our ſervent expectati<g ref="char:EOLhyphen"/>ons retarded, by the ill-diſpoſed-members of ſome in the Houſe of Peeres, where the Popiſh Lords and Biſhops having their vote, do repercuſſe thoſe good determinations which are intended by the Houſe of Commons: Our humble ſupplication is therefore, that you would be reſpectively pleaſed to remove theſe duſturbers of the Common-wealth, that doe not onely hinder the zealous laffe<g ref="char:EOLhyphen"/>cted Commons from their demonſtration of vigi<g ref="char:EOLhyphen"/>lant, ſedulity, but d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alſo procraſtinate and de<g ref="char:EOLhyphen"/>ferre the common ſafety and proſperity of the whole Kingdome: in the name of which in gene<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, and not in the behalf of our ſelves in particu<g ref="char:EOLhyphen"/>lar, wee dev<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly preſent our Petition unto your Honours, umbly claving your aſſent and conſent thereunto.</p>
+            <closer>And your Petitioners ſhall bee ever bound to pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156365:4"/>
+            <head>THE HVMBLE PETITION OF the County of Eſſex: <hi>To the right Honorable the Knights, Citizens and Burgeſſes in the Houſe of Commons now aſſembled in Parliament.</hi>
+            </head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat the prepoſterous diviſions of our Religi<g ref="char:EOLhyphen"/>on have been ſo confuſed amongſt us, and the numerous grievances of our County, have been ſo voluminous, that they could eaſily bee expreſſed. And although wee have daily waited in expectation of a reformation; yet wee have been fruſtrated, and nothing but incivility, diſorder, and prophaneſſe is introduced into the diſtracted Church. Our humble requeſt is therefore that you would expell thoſe, who are rhe cauſe of our miſerable calamities, from your Aſſembly, <hi>viz.</hi> Popiſh Lords and Biſhops, with others, that Reli<g ref="char:EOLhyphen"/>gion may be piouſly confirmed, ſacredly eſtabli<g ref="char:EOLhyphen"/>ſhed, and reſpectively embraced by all people, ac<g ref="char:EOLhyphen"/>cording to the decencie of the Church, and as the holy Scripture requires: that the conſciences of men may be disburdened, the various diſtractions in the Church mitigated, and the regularity of pi<g ref="char:EOLhyphen"/>ous devotion inſtituted, to the immortall honour of the Parliament.</p>
+            <closer>And your Petioners will be bound to pray, &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
